@@ -1,7 +1,7 @@
 # Climate Policy Uncertainty and Sentiment Dataset
 
 ## Overview
-This dataset provides **monthly indices of climate policy uncertainty and sentiment**, together with the instrument and shock-series for climate policy uncertainty.
+This dataset provides **monthly indices of climate policy uncertainty and sentiment**, together with the instrument and shock-series for climate policy uncertainty. For details on the construction of these indices, see [Gavriilidis, Känzig, Raghavan, and Stock, 2026](https://dkaenzig.github.io/diegokaenzig.com/Papers/gkrs_cpu.pdf). 
 
 ## Files
 | File | Description |
