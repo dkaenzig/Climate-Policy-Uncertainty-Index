@@ -48,3 +48,28 @@ Gavriilidis, Känzig, Raghavan, and Stock (2026). ["The Macroeconomic Effects of
 |----------|-------------|
 | `cpu_instrument` | Event-based climate policy uncertainty instrument |
 | `cpu_shock` | Climate policy uncertainty shock series |
+
+
+### License
+
+The data are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share and adapt the data provided appropriate credit is given. If you use these data, please cite the following paper:
+
+Gavriilidis, Konstantinos; Känzig, Diego R.; Raghavan, Ramya; and Stock, James H. (2026).  
+*The Macroeconomic Effects of Climate Policy Uncertainty.*  
+NBER Working Paper No. 34762.  
+https://doi.org/10.3386/w34762
+
+```bibtex
+@techreport{gavriilidis2026cpu,
+  title       = {The Macroeconomic Effects of Climate Policy Uncertainty},
+  author      = {Gavriilidis, Konstantinos and K{\"a}nzig, Diego R. and Raghavan, Ramya and Stock, James H.},
+  institution = {National Bureau of Economic Research},
+  type        = {NBER Working Paper},
+  number      = {34762},
+  year        = {2026},
+  doi         = {10.3386/w34762},
+  url         = {https://www.nber.org/papers/w34762}
+}
+```
