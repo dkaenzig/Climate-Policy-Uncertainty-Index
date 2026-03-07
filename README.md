@@ -59,7 +59,7 @@ You are free to share and adapt the data provided appropriate credit is given. I
 Gavriilidis, Konstantinos; Känzig, Diego R.; Raghavan, Ramya; and Stock, James H. (2026).  
 *The Macroeconomic Effects of Climate Policy Uncertainty.*  
 NBER Working Paper No. 34762.  
-https://doi.org/10.3386/w34762
+https://www.nber.org/papers/w34762  
 
 ```bibtex
 @techreport{gavriilidis2026cpu,
