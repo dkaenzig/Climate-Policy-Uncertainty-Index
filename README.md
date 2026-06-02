@@ -43,7 +43,7 @@ This instrument is used to construct a monthly series of **climate policy uncert
 | `cpu_instrument` | Event-based climate policy uncertainty instrument |
 | `cpu_shock` | Climate policy uncertainty shock series |
 
-### License
+## License
 
 The data are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
